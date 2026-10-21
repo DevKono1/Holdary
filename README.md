@@ -18,7 +18,7 @@ When contacting us (e.g. via contact form or e-mail), personal data is collected
 
 The personal data collected by us will be passed on to the transport company commissioned with the delivery as part of the contract, insofar as this is necessary for the delivery of the goods. We pass on your payment data to the commissioned credit institute as part of the payment process, provided this is necessary for the payment process. If payment service providers are used, we will explicitly inform you of this below. The legal basis for the transfer of data is Article 6 (1) (b) GDPR. 
 
-3.2 - RevenueCat
+3.2 (RevenueCat) 
 In the case of in-app payments, payment is made via RevenueCat Inc., 300 Euclid Avenue San Francisco, CA 94118, USA. to whom we pass on the information you provided during the ordering process together with the information about your order. Your data will be passed on in accordance with Article 6 Paragraph 1 Letter b GDPR exclusively for the purpose of payment processing and only to the extent that it is necessary for this. We have concluded an order processing contract with RevenueCat Inc., with which we oblige the provider to protect the data of the app users and not to pass it on to third parties.
 
 Further information on data protection by RevenueCat can be found here: [https://www.revenuecat.com/privacy](https://www.revenuecat.com/privacy)
