@@ -32,7 +32,13 @@ If You have purchased a "lifetime" license for the Application, this license gra
 
 ### Subscription Fees and Price Changes
 
+Where the Service offers paid subscriptions, the applicable subscription price, billing period, duration, automatic renewal conditions, and cancellation terms will be disclosed before purchase through Google Play.
+
+Subscriptions purchased through Google Play are managed through the Google Play account used for the purchase. You may cancel Your subscription through the subscription management settings provided by Google Play. Unless otherwise required by applicable law or the applicable purchase terms, cancellation prevents renewal at the end of the current paid subscription period and does not automatically entitle You to a refund for that period.
+
 The Company reserves the right to change the subscription fees for the Service from time to time. Any price changes for existing subscriptions will be made only where permitted by applicable law and on a legally valid basis. Where required by law, We will notify You in advance of any price change, including the new subscription price and the date on which it will take effect. Where required, Your consent will be obtained before the new price applies. If You do not agree to a price change, You may cancel Your subscription before the new price takes effect, subject to applicable law and the terms of Your subscription. Any price change will not affect subscription periods already paid for, unless otherwise permitted by applicable law.
+
+Any statutory rights concerning refunds, withdrawal, defective digital products or services, and termination remain unaffected.
 
 ### Links to Other Websites
 
